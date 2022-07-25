@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658630164 source:c:\users\sebastian leon\documents\pir\hola mundo\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
